@@ -1,0 +1,29 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "this is node in which project i am going to use mongodb  as db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "syed kashif",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "cryptr": "^6.0.2",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "formidable": "^1.2.2",
+    "fs": "^0.0.1-security",
+    "geodist": "^0.2.1",
+    "geoip-lite": "^1.4.2",
+    "http": "^0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.4",
+    "nodemailer": "^6.6.3",
+    "path": "^0.12.7",
+    "socket.io": "^4.2.0",
+    "stripe": "^8.174.0"
+  }
+}
